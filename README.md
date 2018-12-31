@@ -1,5 +1,5 @@
 # WeatherDataCollector
-WeatgerDataCollector by jsp
+This is to get a weather information from data.go.kr. It will gather and save weather data in anyplace automatic.
 
 # Libs
 commons-codec-1.10.jar  
