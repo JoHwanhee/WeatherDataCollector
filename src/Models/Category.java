@@ -16,7 +16,7 @@ public class Category {
 			res = "하늘상태";
 		}
 		else if (category.equals("T1H")) {
-			res = "습도";
+			res = "온도";
 		}
 		else if (category.equals("RN1")) {
 			res = "1시간 강수량";
